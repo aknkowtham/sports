@@ -1,2 +1,1 @@
-Title is SPORTS-WORLD
-This project is used for one of the sports website.
+This  Sports-World project is used for one of the sports website.
